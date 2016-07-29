@@ -538,3 +538,6 @@ properties:
   cc.reserved_private_domains:
     description: "File location of a list of reserved private domains (for file format, see https://publicsuffix.org/)"
     default: ~
+
+  cc.zone:
+    description: "Site, datacenter name"
