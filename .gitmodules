@@ -14,10 +14,6 @@
 	path = src/github.com/cloudfoundry/gosteno
 	url = https://github.com/cloudfoundry/gosteno
 	branch = master
-[submodule "src/github.com/cloudfoundry/gunk"]
-	path = src/github.com/cloudfoundry/gunk
-	url = https://github.com/cloudfoundry/gunk
-	branch = master
 [submodule "src/github.com/cloudfoundry/noaa"]
 	path = src/github.com/cloudfoundry/noaa
 	url = https://github.com/cloudfoundry/noaa
@@ -53,14 +49,6 @@
 [submodule "src/github.com/onsi/gomega"]
 	path = src/github.com/onsi/gomega
 	url = https://github.com/onsi/gomega
-	branch = master
-[submodule "src/github.com/pivotal-golang/clock"]
-	path = src/github.com/pivotal-golang/clock
-	url = https://github.com/pivotal-golang/clock
-	branch = master
-[submodule "src/github.com/pivotal-golang/lager"]
-	path = src/github.com/pivotal-golang/lager
-	url = https://github.com/pivotal-golang/lager
 	branch = master
 [submodule "src/github.com/tedsuo/ifrit"]
 	path = src/github.com/tedsuo/ifrit
@@ -148,3 +136,41 @@
 	path = src/code.cloudfoundry.org/bbs
 	url = https://github.com/cloudfoundry/bbs
 	branch = master
+[submodule "src/code.cloudfoundry.org/urljoiner"]
+	path = src/code.cloudfoundry.org/urljoiner
+	url = https://github.com/cloudfoundry/urljoiner
+	branch = master
+[submodule "src/code.cloudfoundry.org/workpool"]
+	path = src/code.cloudfoundry.org/workpool
+	url = https://github.com/cloudfoundry/workpool
+	branch = master
+[submodule "src/gopkg.in/yaml.v2"]
+	path = src/gopkg.in/yaml.v2
+	url = https://github.com/go-yaml/yaml
+[submodule "src/code.cloudfoundry.org/executor"]
+	path = src/code.cloudfoundry.org/executor
+	url = https://github.com/cloudfoundry/executor
+[submodule "src/code.cloudfoundry.org/localip"]
+	path = src/code.cloudfoundry.org/localip
+	url = https://github.com/cloudfoundry/localip
+[submodule "src/code.cloudfoundry.org/rep"]
+	path = src/code.cloudfoundry.org/rep
+	url = https://github.com/cloudfoundry/rep
+[submodule "src/google.golang.org/genproto"]
+	path = src/google.golang.org/genproto
+	url = https://github.com/google/go-genproto
+[submodule "src/google.golang.org/grpc"]
+	path = src/google.golang.org/grpc
+	url = https://github.com/grpc/grpc-go
+[submodule "src/github.com/go-sql-driver/mysql"]
+	path = src/github.com/go-sql-driver/mysql
+	url = https://github.com/go-sql-driver/mysql
+[submodule "src/github.com/lib/pq"]
+	path = src/github.com/lib/pq
+	url = https://github.com/lib/pq
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net
+[submodule "src/golang.org/x/text"]
+	path = src/golang.org/x/text
+	url = https://github.com/golang/text
